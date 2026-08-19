@@ -304,24 +304,3 @@ Health-Insurance-Premium-Prediction/
 ├── insurance_prediction.csv
 └── README.md
 ```
-
-> Note: The dataset may be excluded from the repository depending on its source and usage permissions.
-
----
-
-## 🔮 Future Improvements
-
-The project can be improved further by:
-
-* Testing **Random Forest Regression**
-* Implementing **Gradient Boosting**
-* Experimenting with **XGBoost**
-* Performing **hyperparameter tuning**
-* Using **cross-validation**
-* Applying appropriate feature scaling
-* Checking regression assumptions
-* Investigating multicollinearity
-* Applying log transformation to the target variable
-* Comparing multiple regression algorithms to identify the best-performing model
-
----
